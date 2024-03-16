@@ -15,17 +15,6 @@ Maybe even some cool experiments I'm working on!
 - Tools/Platforms: Git, GitHub, VS Code, Android Studio
 
 
-## Projects
-
-Here are a few projects I've worked on:
-
-1. [Simple Recipes](link-to-project) - Simple Recipes is a web application that I have developed using the Flask framework, with fourteen HTML files, each for adifferent page of the web application page.
-2. [Ecommerce System](link-to-project) - The C++ program of ecommerce system is made for the buyers and sellers. The end users will be able to view the products and buy them, selecting from a large category and paying using their preferred mode. Sellers will be able to sell multiple items at a competitive price, each item having its own category.
-
-Feel free to explore my repositories to see more of my work!
-Reach out and say hi! I'm always open to collaborating on interesting projects.
-
-
 ## Connect with Me
 
 Let's connect and discuss exciting tech ideas! You can find me on:
